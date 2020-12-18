@@ -1,3 +1,10 @@
 body {
     background-color: hotpink;
 }
+
+
+.pretty {
+    line-height: 3em;
+    border-radius: 1em;
+    background-color: purple;
+}
